@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" heigth="30"/>
 
-# Hi there, I'm REDOUANE HAMDOUNE you call me RuYO 💻 </div>
+# Hi there, I'm REDOUANE HAMDOUNE you can call me RuYO 💻 </div>
 
 <div>
 
